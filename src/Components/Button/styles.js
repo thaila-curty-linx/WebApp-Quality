@@ -16,4 +16,8 @@ export const MyButton = styled(Button)({
   width: "100%",
   boxShadow: "0",
   margin: "52px 0",
+
+  "&:hover": {
+    backgroundColor: "#7AC8A3",
+  },
 });
