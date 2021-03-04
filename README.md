@@ -3,9 +3,8 @@
 <a href="https://hardcore-noether-c1bb5f.netlify.app/">Acessar a Aplicação</a>
 
 ### Acesso: Email: adm@hotmail.com Senha:1234
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+</br></br>
+----
 ## Available Scripts
 
 In the project directory, you can run:
