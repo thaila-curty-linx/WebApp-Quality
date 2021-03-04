@@ -27,7 +27,7 @@ export const AuthProvider = ({ children }) => {
         setData({ token, user });
         setLoggedIn(true);
       } else {
-        throw { name: "senha", message: "Senha inválida" };
+        throw { name: "password", message: "Senha inválida" };
       }
     } else {
       throw { name: "email", message: "Email Inválido" };
